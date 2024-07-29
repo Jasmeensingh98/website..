@@ -38,9 +38,9 @@ body{
 }
   
   .logo-img {
-    max-width: 40px; /* adjust the width to your liking */
+    max-width: 40px; 
     margin-right: 10px; 
-  /* add some space between the logo and text */
+
   }
   
   .logo-text {
@@ -51,8 +51,8 @@ body{
   }
 /*  logo class */
 .logo {
-  max-width: 100%; /* ensure the logo doesn't exceed its parent container */
-  height: auto; /* maintain aspect ratio */
+  max-width: 100%; 
+  height: auto; 
   display: block; /* make the logo a block element */
   margin: 0 auto; /* center the logo horizontally */
   align-items: center;
@@ -180,7 +180,7 @@ body{
     justify-content: center; /* center the image horizontally */
     align-items: center; /* center the image vertically */
    /* set a fixed height for the section */
-    overflow: hidden ;/* hide any overflowing parts of the image */
+    overflow: hidden ;
     border-radius: 50px; /* add a border radius of 50px */
     padding-top: 5%;
   }
